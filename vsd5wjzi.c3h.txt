@@ -1,0 +1,35 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i nor -o; assuming --only paths...
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   AwsBasicS3/.gitignore
+#	new file:   AwsBasicS3/AWS_Site/week10_asg1_f1/f1_1.html
+#	new file:   AwsBasicS3/AWS_Site/week10_asg1_f1/f1_2.html
+#	new file:   AwsBasicS3/AWS_Site/week10_asg1_f1/f1_3.html
+#	new file:   AwsBasicS3/AWS_Site/week10_asg1_f2/f2_1.html
+#	new file:   AwsBasicS3/AWS_Site/week10_asg1_f2/f2_2.html
+#	new file:   AwsBasicS3/AWS_Site/week10_asg1_f2/f2_3.html
+#	new file:   AwsBasicS3/CloudNotes.html
+#	new file:   AwsBasicS3/Part1.html
+#	new file:   AwsBasicS3/Part2.html
+#	new file:   AwsBasicS3/Server.js
+#	new file:   AwsBasicS3/config.json
+#	new file:   AwsBasicS3/index.html
+#	new file:   AwsBasicS3/package.json
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	.gitattributes
+#	.gitignore
+#	readme.md
+Week 10 S3
+
+
